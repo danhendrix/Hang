@@ -1,0 +1,32 @@
+{
+  "name": "hang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhendrix/Hang.git"
+  },
+  "author": "dh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhendrix/Hang/issues"
+  },
+  "homepage": "https://github.com/danhendrix/Hang#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "less": "^3.9.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
